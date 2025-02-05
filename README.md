@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/c5/24/8e/c5248ed334ed6965c2167910024da02d.gif" alt="Hello Kitty" width="300" height="300"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;">Hola Bárbara López !</span>  
+# <img src="https://i.pinimg.com/originals/c5/24/8e/c5248ed334ed6965c2167910024da02d.gif" alt="Hello Kitty" width="300" height="300"/> <span style="font-family: 'Comic Sans MS', cursive, sans-serif;">Hola soy Bárbara López !</span>  
 ### Desarrolladora Frontend / Diseñadora UX/UI  
 📍 Argentina – Resistencia, Chaco  
 📞 (54) 3624712603  
